@@ -14,9 +14,7 @@
 
 This project was developed using the following technologies:
 
-- HTML and CSS
-- JavaScript
-- Git and Github
+-Python
 
 ## 💻 Project
 
